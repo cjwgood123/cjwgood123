@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+## Hi there 👋 클라이밍 하는 개발자 최지우 입니다. 
 📚 STACKS<br>
 <div>
 * Programming Side
