@@ -79,16 +79,35 @@
 ## 내 경력 이력
 
 <details>
-  <summary>에이앤티솔루션 KT SHOP SM TEAM · 사원/팀원 1년차</summary>
-  
-  ### 담당업무 
-  - kt shop 유지보수 및 신규 기능 개발 , 고객 cs 및 voc 오류 수정
-
-  - 123123
-  
+  <summary> 2021.02 ~ 2023.05 에이앤티솔루션 KT SHOP SM TEAM · 사원/팀원 1년차   
+    <br> * 담당업무 
+  - kt shop 유지보수 및 신규 기능 개발 , 고객 cs 및 voc 오류 수정 
+    <br>https://shop.kt.com/
+  </summary>
 </details>
 
 <details>
-  <summary>2011-  서 몰 :  Jahre An W Werden J. ? der Wissenschaftsjahr
+  <summary> 2021.02 ~ 2023.05 더위버 크리에이티브 
+    <br> * 담당업무 
+  - 삼성전기 유지보수 및 신규기능개발 ,  bmw-fs 신규 기능 개발 , 유지보수 , 한양수자인 구축 
+  <br> https://www.samsungsem.com/kr/index.do
+  <br> https://www.bmwfs.co.kr/
+  <br> https://m.sujain.co.kr/
+  </summary>
+</details>
 
+<details>
+  <summary> 2023.05 ~ 2024.01 라이트하우스 
+    <br> * 담당업무 
+  - 데일리북 자사 서비스 개발 , 키즈노트 api 개발
+  <br> https://www.dailybooklove.com/
+  </summary>
+</details>
 
+<details>
+  <summary> 2024.05 ~ 재직중 덴탈비서
+    <br> * 담당업무 
+  - 덴탈비서 자사 서비스 개발 
+  <br>https://denb.co.kr/new/main/
+  </summary>
+</details>
