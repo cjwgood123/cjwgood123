@@ -107,7 +107,7 @@
 <details>
   <summary> 2024.05 ~ 재직중 덴탈비서
     <br> * 담당업무 
-  - 덴탈비서 자사 서비스 개발 
+  - 덴탈비서 자사 서비스(php) 개발  , 전자정부 프레임워크ci/cd (webhook , CentOs , jenkins  파이프라인 구축)
   <br>https://denb.co.kr/new/main/
   </summary>
 </details>
