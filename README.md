@@ -105,9 +105,17 @@
 </details>
 
 <details>
-  <summary> 2024.05 ~ 재직중 덴탈비서
+  <summary> 2024.05 ~ 2024.08 덴탈비서
     <br> * 담당업무 
   - 덴탈비서 자사 서비스(php) 개발  , 전자정부 프레임워크ci/cd (webhook , CentOs , jenkins  파이프라인 구축)
   <br>https://denb.co.kr/new/main/
+  </summary>
+</details>
+
+<details>
+  <summary>  2024.08 ~ 파고다 아카데미 재직중
+    <br> * 담당업무 
+  - 파고다아카데미  자사 서비스(spring/java) 개발  ,  - 파고다아카데미  자사 서비스 운영  , 파고다 자사 ERP 서비스 개선 
+  <br>https://www.pagoda21.com/pagoda21/home/index.do
   </summary>
 </details>
